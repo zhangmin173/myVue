@@ -1,6 +1,6 @@
 # yes
 
-> yes
+> test
 
 ## Build Setup
 
